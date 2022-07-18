@@ -111,7 +111,7 @@ function App() {
 
   return (
     <>
-    
+      <Counter><button>sagar</button></Counter>
     </>
     // <div className="App">
 
